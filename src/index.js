@@ -1,6 +1,7 @@
 import React from "react";
+import "@material-tailwind/react/tailwind.css";
+import './index.css';
 import ReactDOM from "react-dom/client";
-
 import store from "./ulti/store";
 import { Provider } from "react-redux";
 
